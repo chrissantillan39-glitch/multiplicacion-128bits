@@ -1,9 +1,9 @@
-# Multiplicación de Integros de 128 bits usando Uniones e Intel Intrinsics
+# Multiplicación de dos Numeros  de 128 bits 
 
 ## Descripción
 Este proyecto implementa la multiplicación exacta de dos enteros de 128 bits utilizando estructuras `union` en C y las instrucciones optimizadas a nivel de hardware de la biblioteca **Intel Intrinsics** (`<immintrin.h>`). El resultado se almacena en una estructura de 256 bits para prevenir cualquier desbordamiento.
 
-Proyecto desarrollado para la materia de **Programación Avanzada** (Maestría en Ciencias, CINVESTAV).
+
 
 ## Detalles de Implementación
 
